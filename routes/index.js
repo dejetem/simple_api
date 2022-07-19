@@ -84,17 +84,14 @@ router.get('/:id', IndexController.getOneThing);
  *      - name: title
  *        description: title of the thing to be updated
  *        in: formData
- *        required: true
  *        type: string
  *      - name: price
  *        description: price of the thing to be updated
  *        in: formData
- *        required: true
  *        type: number
  *      - name: description
  *        description: description of the thing to be updated
  *        in: formData
- *        required: true
  *        type: string
  *     responses:
  *       201:
