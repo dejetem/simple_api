@@ -6,6 +6,7 @@
 ## Setup:
 - `cd server`
 - `run npm install`
+- `update MongoDB Atlas URI in .env`
 - `run npm start`
 
 ## Api
