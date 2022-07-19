@@ -28,3 +28,5 @@
 ### - deleteThing
 - delete('/:id') 
 
+## Test API endpoint on swagger [http://localhost:8000/api-docs/]
+
